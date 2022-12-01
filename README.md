@@ -11,6 +11,10 @@ Make sure to join the dedicated Slack channel [#challenge-fall-2022](https://qis
 
 Following this challenge, if you are looking to apply your new-found knowledge further, we encourage you to participate in the IBM Open Science Prize that will be announced later this year! Every year, a new technical challenge at the forefront of quantum computing is posed to the entire world and those who generate the strongest solutions can win thousands of dollars in prizes. We hope to see you there too!
 
+
+
+## ===============================================================================================================================================================
+
 <br>
 <br><br>
 
