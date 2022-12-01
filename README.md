@@ -35,7 +35,7 @@ Lab 3 will put your navigation skills to the test as you explore the fascinating
 
 #### Lab 4: Quantum Chemistry
 The challenge concludes with an exercise in quantum chemistry simulation, where you’ll discover strange interstellar molecules never before seen on Earth. Chemists have been using classical computation to model and simulate the structure of molecules for decades, but classical simulations of these inherently quantum systems are incredibly computationally expensive. Classical computers can only simulate large molecular systems if they rely on rough approximations, but quantum computers have the potential to simulate these systems much more precisely and efficiently. For this final lab, you’ll use the Qiskit Nature Module to calculate key properties of your mystery molecules, and obtain important information to discover cosmic clouds that may aide in your journey home.
-### [Lab 4 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-1/lab4_soln.ipynb)
+### [Lab 4 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-4/lab4_soln.ipynb)
 
 
 #### Error Suppression and Error Mitigation
