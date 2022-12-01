@@ -13,9 +13,9 @@ Following this challenge, if you are looking to apply your new-found knowledge f
 
 
 
-## ==========================
+## ==================================
 
-### IBM QUANTUM FALL CHALLENGE SOLUTIONS.
+### IBM QUANTUM FALL CHALLENGE DESCRIPTION AND SOLUTIONS.
 
 I am glad that I got a chance to solve my 4th IBM Quantum challenge. The Quantum fall 2022 challenge was space themed and contained challenges of ascending difficulty which were: Qiskit Runtime and Primitives, Quantum Machine Learning, Quantum optimization and Quantum chemistry.
 
