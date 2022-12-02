@@ -27,7 +27,7 @@ I am glad that I got a chance to solve my 4th IBM Quantum challenge. The Quantum
 
 In Lab 1, our first challenge exercise, you’ll learn how to use primitives in Qiskit Runtime while solving simple exercises using basic quantum circuits. Even if you're completely unfamiliar with Qiskit Runtime, these exercises will give you the background you need to move on to the next challenge. If you want to learn more about Qiskit Runtime before the challenge, check out these tutorials in our Qiskit Runtime documentation.
 
-### [Lab 1 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-1/lab1_soln.ipynb)
+### ---> [Lab 1 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-1/lab1_soln.ipynb)
 
 
 
@@ -57,8 +57,11 @@ Lab 3 will put your navigation skills to the test as you explore the fascinating
 ### ---> [Lab 3 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-3/lab3_soln.ipynb)
 
 #### Lab 4: Quantum Chemistry
+
+![dow3](https://user-images.githubusercontent.com/68440833/205203757-5adc6b14-62f6-4599-b2e6-593c02a46bd4.png)
+
 The challenge concludes with an exercise in quantum chemistry simulation, where you’ll discover strange interstellar molecules never before seen on Earth. Chemists have been using classical computation to model and simulate the structure of molecules for decades, but classical simulations of these inherently quantum systems are incredibly computationally expensive. Classical computers can only simulate large molecular systems if they rely on rough approximations, but quantum computers have the potential to simulate these systems much more precisely and efficiently. For this final lab, you’ll use the Qiskit Nature Module to calculate key properties of your mystery molecules, and obtain important information to discover cosmic clouds that may aide in your journey home.
-### [Lab 4 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-4/lab4_soln.ipynb)
+### ----> [Lab 4 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-4/lab4_soln.ipynb)
 
 
 #### Error Suppression and Error Mitigation
