@@ -41,7 +41,7 @@ In Lab 1, our first challenge exercise, you’ll learn how to use primitives in 
 
 
 For Lab 2, you’ll need to learn the basics of quantum machine learning (QML) to decode your captain’s log and unearth a hidden clue about your mission. You’re likely already familiar with classical machine learning, where we use data mining and algorithmic techniques to generate meaningful insights and predictions from data sets. QML leverages quantum mechanical properties to deliver potential learning improvements over purely classical methods, and with the Qiskit Machine Learning Module, it’s easy to rapidly prototype quantum kernels, quantum neural networks, and other ML models. In this part of the challenge, you’ll learn about data encoding and classical ML methods before exploring quantum kernels and building your own quantum classifier.
-### [Lab 2 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-2/lab2_soln.ipynb)
+### --->  [Lab 2 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-2/lab2_soln.ipynb)
 
 
 
@@ -49,12 +49,16 @@ For Lab 2, you’ll need to learn the basics of quantum machine learning (QML) t
 
 
 #### Lab 3: Quantum Optimization
+
+![dow](https://user-images.githubusercontent.com/68440833/205201563-bd0a3e8a-8be6-4e1f-8dba-001f712acdf7.jpg)
+![dow2](https://user-images.githubusercontent.com/68440833/205201591-ea1961f5-070b-4002-82bc-88b23f2507f6.png)
+
 Lab 3 will put your navigation skills to the test as you explore the fascinating world of quantum optimization. Mathematical optimization techniques play a role in nearly every sector of the global economy — from manufacturing and shipping logistics to engineering and beyond. However, many famous and valuable Read our tutorial on the Max-Cut and Traveling Salesman Problemoptimization problems are intractable to classical computation. In Lab 3, you’ll use optimization algorithms from the Qiskit Optimization Module to do some cosmic clean-up, working out the most fuel-efficient route to eliminate dangerous pieces of space debris before slingshotting your starship out of a sticky situation.
-### [Lab 3 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-3/lab3_soln.ipynb)
+### ---> [Lab 3 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-3/lab3_soln.ipynb)
 
 #### Lab 4: Quantum Chemistry
 The challenge concludes with an exercise in quantum chemistry simulation, where you’ll discover strange interstellar molecules never before seen on Earth. Chemists have been using classical computation to model and simulate the structure of molecules for decades, but classical simulations of these inherently quantum systems are incredibly computationally expensive. Classical computers can only simulate large molecular systems if they rely on rough approximations, but quantum computers have the potential to simulate these systems much more precisely and efficiently. For this final lab, you’ll use the Qiskit Nature Module to calculate key properties of your mystery molecules, and obtain important information to discover cosmic clouds that may aide in your journey home.
-### [Lab 4 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-4/lab4_soln.ipynb)
+### [Lab 4 Solution Notebook](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-4/lab4_soln.ipynb)
 
 
 #### Error Suppression and Error Mitigation
