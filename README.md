@@ -20,6 +20,11 @@ Following this challenge, if you are looking to apply your new-found knowledge f
 I am glad that I got a chance to solve my 4th IBM Quantum challenge. The Quantum fall 2022 challenge was space themed and contained challenges of ascending difficulty which were: Qiskit Runtime and Primitives, Quantum Machine Learning, Quantum optimization and Quantum chemistry.
 
 #### Lab 1: Qiskit Runtime and Primitives
+
+![prim](https://user-images.githubusercontent.com/68440833/205200666-46a9eb9d-2dd8-481f-85c9-6a76c174b77b.png)
+
+![run_ov](https://user-images.githubusercontent.com/68440833/205200779-1160e1e4-9b75-46e8-9f8b-a3dbdeab22e7.png)
+
 In Lab 1, our first challenge exercise, you’ll learn how to use primitives in Qiskit Runtime while solving simple exercises using basic quantum circuits. Even if you're completely unfamiliar with Qiskit Runtime, these exercises will give you the background you need to move on to the next challenge. If you want to learn more about Qiskit Runtime before the challenge, check out these tutorials in our Qiskit Runtime documentation.
 
 ### [Lab 1 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-1/lab1_soln.ipynb)
