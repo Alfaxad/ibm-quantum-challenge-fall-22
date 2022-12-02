@@ -30,9 +30,23 @@ In Lab 1, our first challenge exercise, you’ll learn how to use primitives in 
 ### [Lab 1 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-1/lab1_soln.ipynb)
 
 
+
+
+
 #### Lab 2: Quantum Machine Learning
+
+![qmlp](https://user-images.githubusercontent.com/68440833/205201082-d454d66b-1328-43e6-8077-fe3cedc39580.png)
+
+![ansatz](https://user-images.githubusercontent.com/68440833/205201152-142fe996-ae03-423d-9f1a-429120e083e6.png)
+
+
 For Lab 2, you’ll need to learn the basics of quantum machine learning (QML) to decode your captain’s log and unearth a hidden clue about your mission. You’re likely already familiar with classical machine learning, where we use data mining and algorithmic techniques to generate meaningful insights and predictions from data sets. QML leverages quantum mechanical properties to deliver potential learning improvements over purely classical methods, and with the Qiskit Machine Learning Module, it’s easy to rapidly prototype quantum kernels, quantum neural networks, and other ML models. In this part of the challenge, you’ll learn about data encoding and classical ML methods before exploring quantum kernels and building your own quantum classifier.
 ### [Lab 2 Solution](https://github.com/Alfaxad/ibm-quantum-challenge-fall-22/blob/main/content/lab-2/lab2_soln.ipynb)
+
+
+
+
+
 
 #### Lab 3: Quantum Optimization
 Lab 3 will put your navigation skills to the test as you explore the fascinating world of quantum optimization. Mathematical optimization techniques play a role in nearly every sector of the global economy — from manufacturing and shipping logistics to engineering and beyond. However, many famous and valuable Read our tutorial on the Max-Cut and Traveling Salesman Problemoptimization problems are intractable to classical computation. In Lab 3, you’ll use optimization algorithms from the Qiskit Optimization Module to do some cosmic clean-up, working out the most fuel-efficient route to eliminate dangerous pieces of space debris before slingshotting your starship out of a sticky situation.
